@@ -1,3 +1,4 @@
+![DOI](https://img.shields.io/badge/DOI-10.1101%2F2024.12.20.629773-blue?style=for-the-badge&logo=biorxiv)
 # 🧠 dFCExpert: Learning Brain Dynamic Functional Connectivity with Modularity and State Experts
 
 This repository contains the official implementation of "[dFCExperts: Learning Dynamic Functional Connectivity Patterns with Modularity and State Experts](https://doi.org/10.1101/2024.12.20.629773)."
